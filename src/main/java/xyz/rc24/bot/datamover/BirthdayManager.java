@@ -35,7 +35,7 @@ class BirthdayManager
         for(Map.Entry<String, JsonElement> entry : obj.entrySet())
         {
             long id = Long.parseLong(entry.getKey());
-            String[] split = entry.getValue().getAsString().split("/"); // MM/DD -> DD/MM
+            String[] split = entry.getValue().getAsString().split("-"); // MM-DD -> DD/MM
 
             map.put(id, split[1] + "/" + split[0]);
         }
