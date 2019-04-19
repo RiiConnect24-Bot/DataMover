@@ -7,6 +7,10 @@
     <groupId>xyz.rc24.bot.datamover</groupId>
     <artifactId>DataMover</artifactId>
     <version>1.0</version>
+	
+	<build>
+		<finalName>WhatEverYouLikey</finalName>
+	</build>
 
     <repositories>
         <repository>
