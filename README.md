@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/riiconnect24-bot/datamover.svg)](https://github.com/RiiConnect24-Bot/DataMover/blob/master/LICENSE)
 [![Discord Server](https://img.shields.io/discord/206934458954153984.svg)](https://discord.gg/b4Y7jfD)
 [![Support Server](https://img.shields.io/discord/366320450114158593.svg)](https://discord.gg/5rw6Tur)
-[![Jenkins](https://img.shields.io/jenkins/s/https/jenkins.artuto.tk/view/Discord/job/RC24-Bot-DataMover.svg)](https://jenkins.artuto.tk/job/RC24-Bot-DataMover)
+[![Jenkins](https://img.shields.io/jenkins/s/https/jenkins.artuto.tk/view/RC24/job/RC24-Bot-DataMover.svg)](https://jenkins.artuto.tk/job/RC24-Bot-DataMover)
 [![AppVeyor](https://ci.appveyor.com/api/projects/status/n3kbh5qocy87fpm8?svg=true)](https://ci.appveyor.com/project/Artuto/datamover)
 
 
